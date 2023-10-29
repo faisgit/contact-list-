@@ -40,4 +40,4 @@ This is Basic Contact List web app. In this app you can get random contact from 
 
 ### What I learned
 
-From this, Project i learn How to use React Js and how to use ustate hook, useffect hook, fetch data from api. I also learn how to use Tailwind CSS in any Project with Material Tailwind
+From this, Project i learn How to use React Js and how to use ustate hook, useffect hook, fetch data from api. I also learn how to use Tailwind CSS in any Project with daisy ui a tailwind css components library 
