@@ -21,7 +21,7 @@ This is Basic Contact List web app. In this app you can get random contact from 
 
 ### Links
 
-- GitHub Repo URL: [Basic Contact List GitHub repo](https://github.com/faisgit/shopping-cart)
+- GitHub Repo URL: [Basic Contact List GitHub repo](https://github.com/faisgit/contact-list-)
 - Live URL: [Contact List](https://contact-list-sigma-nine.vercel.app/)
 
 ## My process
